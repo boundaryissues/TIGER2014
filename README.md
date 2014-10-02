@@ -15,4 +15,4 @@ The county files have been divided up to conform to the "special sub
 regions" of the US as used by the GeoFabrik OpenStreetMap extracts.
 The GeoFabrik extracts may be found here: 
 
-download.geofabrik.de/north-america.html
+[download.geofabrik.de/north-america.html](download.geofabrik.de/north-america.html)
