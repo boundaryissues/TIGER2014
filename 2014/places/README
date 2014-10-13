@@ -1,12 +1,12 @@
 Files in this directory are derived from TIGER 2014 places shapefiles.
 At the present time two stages of processing have been applied. The first
 stage separates the entities inside of the places shape files by the
-LSAD ("Legal and Statistical Area Definition") code into a separate file
-by LSAD. The reault may be find in the zip files; the LSAD value is appended
+LSAD ("Legal and Statistical Area Definition") code into separate shapefiles
+by LSAD. The result may be found in the zip files; the LSAD value is appended
 to the original places file name.
 
-The second stage is a straightline conversion from shapefile to geojson. At
-the present time the TIGER attributes are preserved.
+The second stage is a direct conversion from the individual LSAD-divided
+shapefiles to geojson. At the present time the TIGER attributes are preserved.
 
 Current plans are to provide a second version of the geojson formatted files
 with TIGER Attributes replaced by OSM admin_boundary tags.
