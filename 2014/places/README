@@ -14,3 +14,7 @@ with TIGER Attributes replaced by OSM admin_boundary tags.
 The spreadsheet TIGER-LSAD-code-summary.ods in the directory immediately above
 this one contains a breakdown of the LSAD codes which appear in places and
 county subdivision shapefiles. This spreadsheet is still subject to change.
+
+The LSAD codes correspond to a mixture of legal boundaries and statistical
+boundaries. README files are to be provided in each state subdirectory
+explaining the mixture in that directory.
