@@ -3,7 +3,7 @@ shapefiles. At the present time two stages of processing have been applied.
 The first stage separates the entities inside of the shapefiles by the
 LSAD ("Legal and Statistical Area Definition") code into separate shapefiles
 by LSAD. The result may be found in the zip files; the LSAD value is appended
-to the original places file name.
+to the original county subdivisions file name.
 
 The second stage is a direct conversion from the individual LSAD-divided
 shapefiles to geojson. At the present time the TIGER attributes are preserved.
@@ -12,5 +12,5 @@ Current plans are to provide a second version of the geojson formatted files
 with TIGER Attributes replaced by OSM admin_boundary tags.
 
 The spreadsheet TIGER-LSAD-code-summary.ods in the directory immediately above
-this one contains a breakdown of the LSAD codes which appear in places and
+this one contains a breakdown of the LSAD codes which appear in place and
 county subdivision shapefiles. This spreadsheet is still subject to change.

@@ -1,0 +1,7 @@
+The Minnesota state county subdivision file uses the following LSAD codes:
+
+25  City - Legal boundary
+43  Town - Legal boundary
+44  Township (name does not include string "Township") - Legal boundary
+46  UT - Statistical boundary
+47  Village - Legal boundary
