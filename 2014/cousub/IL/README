@@ -1,0 +1,7 @@
+The Illinois state county subdivision file uses the following LSAD codes:
+
+00  County Subdivsions not defined
+25  City - Legal boundary
+29  Precinct - Election Precinct
+30  Precinct - Election precinct, word "precinct" included in name
+44  Township - Legal boundary
