@@ -1,0 +1,8 @@
+The Nebraska state county subdivision file uses the following LSAD codes:
+
+25  City - Legal boundary
+28  District - Legal boundary (see LSAD codes definition)
+29  Precinct (name does not include string "Precinct") - Legal boundary (election precinct)
+30  Precinct (name includes string "Precinct" - Legal boundary (election precinct)
+44  Township (name does not include string "Township") - Legal boundary
+45  Township (name includes string "Township") - Legal boundary

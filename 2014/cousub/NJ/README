@@ -1,0 +1,8 @@
+The New Jersey state county subdivision file uses the following LSAD codes:
+
+00  County Subdivsions not defined (offshore areas)
+21  Borough - Legal boundary
+25  City - Legal boundary
+43  Town - Legal boundary
+44  Township (name does not include string "Township") - Legal boundary
+47  Village - Legal boundary
