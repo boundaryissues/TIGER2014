@@ -1,0 +1,6 @@
+The Michigan state county subdivision file uses the following LSAD codes:
+
+00  County Subdivsions not defined (offshore areas)
+25  City - Legal boundary
+44  Township (name does not include string "Township") - Legal boundary
+49  Charter Township - Legal boundary
