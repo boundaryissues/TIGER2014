@@ -1,0 +1,7 @@
+The North Carolina state county subdivision file uses the following LSAD codes:
+
+00  County Subdivsions not defined (Cleveland County)
+25  City - Legal boundary
+44  Township (name does not include string "Township") - Legal boundary
+45  Township (name includes string "Township") - Legal boundary
+46  UT - Statistical boundary
