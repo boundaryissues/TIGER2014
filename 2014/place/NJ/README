@@ -1,8 +1,8 @@
 The New Jersey state place file uses the following LSAD codes:
 
-00  Princeton - Border type unknown
+00  Princeton - Munincipality, combined Borough and Township
 21  Borough - Legal boundary
 25  City - Legal boundary
-37  Muncipality - Legal boundary
 43  Town - Legal boundary
+47  Village - Legal Boundary
 57  CDP (Census Designated Place) - Statistical Boundary
