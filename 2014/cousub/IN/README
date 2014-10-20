@@ -1,5 +1,6 @@
 The Indiana state county subdivision file uses the following LSAD codes:
 
+00  County Subdivsions not defined (offshore areas, Lake Michigan)
 25  City - Legal boundary
 43  Town - Legal boundary
 44  Township - Legal boundary

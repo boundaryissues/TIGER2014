@@ -1,6 +1,6 @@
 The Illinois state county subdivision file uses the following LSAD codes:
 
-00  County Subdivsions not defined
+00  County Subdivsions not defined (offshore areas, Lake Michigan)
 25  City - Legal boundary
 29  Precinct - Election Precinct
 30  Precinct - Election precinct, word "precinct" included in name
