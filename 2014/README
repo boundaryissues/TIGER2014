@@ -5,3 +5,10 @@ TIGER-LSAD-code-summary.ods  -- summary of LSAD codes appearing in the
 tl_2014_us_aitsn.geojson     -- American Indian Tribal Subdivisions
 tl_2014_us_state.geojson     -- State borders
 tl_2014_us_county_*.geojson  -- County borders, broken out by regions
+
+Directories:
+
+place	     -- data from TIGER place files, per state
+cousub	     -- data from TIGER county subdivision files, per state
+native	     -- data from TIGER files associated with natives
+	     	 (e.g., Reservations)
