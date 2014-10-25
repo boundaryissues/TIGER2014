@@ -12,3 +12,5 @@ place	     -- data from TIGER place files, per state
 cousub	     -- data from TIGER county subdivision files, per state
 native	     -- data from TIGER files associated with natives
 	     	 (e.g., Reservations)
+consolidated -- data from TIGER files for consolidated town/city/county
+	     	 boundaries
