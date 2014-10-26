@@ -1,5 +1,6 @@
 The Kansas state place file uses the following LSAD codes:
 
-00  Tribune - Legal boundary
+00  Tribune/Greeley County - Legal boundary
+        see consolidated/KS for more inclusive version
 25  City - Legal boundary
 57  CDP (Census Designated Place) - Statistical Boundary
