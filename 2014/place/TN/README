@@ -1,6 +1,8 @@
 The Tennessee state place file uses the following LSAD codes:
 
 00  Nashville-Davidson Metro, Hartsville/Trousdale County governments
+        see consolidated/TN for a more inclusive Nashville-Davidson Metro
+        border
 25  City - Legal boundary
 43  Town - Legal boundary
 57  CDP (Census Designated Place) - Statistical Boundary
