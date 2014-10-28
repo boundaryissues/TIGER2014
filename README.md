@@ -1,7 +1,3 @@
-Country: US
-Source: US Census Bureau (TIGER)
-License: Public Domain
-
 openpolygons/TIGER
 ==================
 This project contains GeoJSON formated files built from US Census Bureau
