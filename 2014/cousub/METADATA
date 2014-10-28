@@ -1,0 +1,6 @@
+Country: US
+Source: US Census Bureau (TIGER)
+SourceURL: ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/
+License: Public Domain
+Projection: WGS84
+OriginalProjection: NAD83
