@@ -1,0 +1,7 @@
+Country:  US
+State:  CO
+Source:  US Census Bureau (TIGER)
+SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/place/tl_2014_08_place.zip
+License:  Public Domain
+Projection:  WGS84
+OriginalProjection:  NAD83
