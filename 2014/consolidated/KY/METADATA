@@ -1,0 +1,7 @@
+Country:  US
+State:  KY
+Source:  US Census Bureau (TIGER)
+SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/concity/tl_2014_21_concity.zip
+License:  Public Domain
+CRS:  WGS84
+OriginalCRS:  NAD83
