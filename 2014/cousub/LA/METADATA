@@ -3,5 +3,5 @@ State:  LA
 Source:  US Census Bureau (TIGER)
 SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2013/cousub/tl_2013_22_cousub.zip
 License:  Public Domain
-Projection:  WGS84
-OriginalProjection:  NAD83
+CRS:  WGS84
+OriginalCRS:  NAD83

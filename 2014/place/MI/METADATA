@@ -3,5 +3,5 @@ State:  MI
 Source:  US Census Bureau (TIGER)
 SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/place/tl_2014_26_place.zip
 License:  Public Domain
-Projection:  WGS84
-OriginalProjection:  NAD83
+CRS:  WGS84
+OriginalCRS:  NAD83
