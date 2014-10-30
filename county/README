@@ -1,0 +1,9 @@
+The US county boundary files use the following LSAD codes:
+
+00  Carson City, Nevada (legal boundary, should be 09, Independent City)
+03  City & Borough (Alaska, legal boundary)
+04  Borough (Alaska, legal boundary)
+05  Census Area (statistical boundary)
+06  County (legal boundary)
+15  Parish (Louisana, legal boundary)
+25  City (legal boundary, Should in may cases be 08, Independent city)

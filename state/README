@@ -1,0 +1,3 @@
+The US states boundary file uses LSAD 00 for the state polygons.
+This is at variance with the official list which specifies 01 for
+state polygons.
