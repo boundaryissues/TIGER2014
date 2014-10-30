@@ -1,5 +1,6 @@
 Country:  US
 State:  PR
+Description:  TIGER Places (Cities & other Municipalities, CDPs)
 Source:  US Census Bureau (TIGER)
 SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/place/tl_2014_72_place.zip
 License:  Public Domain
