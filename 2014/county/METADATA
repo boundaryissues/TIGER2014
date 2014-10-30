@@ -1,0 +1,6 @@
+Country:  US
+Source:  US Census Bureau (TIGER)
+SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUNT Y/tl_2014_us_county.zip
+License:  Public Domain
+CRS:  WGS84
+OriginalCRS:  NAD83
