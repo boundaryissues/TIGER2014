@@ -1,7 +1,8 @@
 Country:  US
 State:  MN
+Description:  County Subdivision
 Source:  US Census Bureau (TIGER)
-SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2013/cousub/tl_2013_27_cousub.zip
+SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/cousub/tl_2014_27_cousub.zip
 License:  Public Domain
 CRS:  WGS84
 OriginalCRS:  NAD83
