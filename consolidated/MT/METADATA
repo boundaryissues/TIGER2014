@@ -1,5 +1,6 @@
 Country:  US
 State:  MT
+Description:  Consolidated City/County Government
 Source:  US Census Bureau (TIGER)
 SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/concity/tl_2014_30_concity.zip
 License:  Public Domain
