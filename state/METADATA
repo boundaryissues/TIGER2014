@@ -1,4 +1,5 @@
 Country:  US
+Description:  State Borders
 Source:  US Census Bureau (TIGER)
 SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/STATE/tl_2014_us_state.zip
 License:  Public Domain
