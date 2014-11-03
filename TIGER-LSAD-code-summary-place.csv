@@ -1,0 +1,74 @@
+State,FIPS code,LSAD (unusual),LSAD (unusual),21 (Borough),25 (City),43 (Town),47 (Village),53 (City & Borough),57 (CDP)
+Alabama,01,,,,x,x,,,x
+Alaska,02,37 (municipality),,,x,,,x,x
+American Samoa,03*,,,,,,,,
+Arizona,04,,,,x,x,,,x
+Arkansas,05,,,,x,x,,,x
+California,06,,,,x,x,,,x
+Canal Zone,07,,,,,,,,
+Colorado,08,,,,x,x,,,x
+Connecticut,09,00 (City balance),,x,x,,,,x
+Delaware,10,,,,x,x,x,,x
+DC,11,,,,x,,,,
+Florida,12,,,,x,x,x,,x
+Georgia,13,00 (unified/consolidated),UG (Unified Government),,x,x,,,x
+Guam,14*,,,,,,,,
+Hawaii,15,,,,,,,,x
+Idaho,16,,,,x,,,,x
+Illinois,17,,,,x,x,x,,x
+Indiana,18,00 (City balance),,,x,x,,,x
+Iowa,19,,,,x,,,,x
+Kansas,20,00 (Unified Governement balance),,,x,,,,x
+Kentucky,21,00 (metro government balance),UC (Urban County),,x,,,,x
+Louisiana,22,,,,x,x,x,,x
+Maine,23,,,,x,,,,x
+Maryland,24,,,,x,x,x,,x
+Massachusetts,25,,,,x,,,,x
+Michigan,26,,,,x,,x,,x
+Minnesota,27,,,,x,,,,x
+Mississippi,28,,,,x,x,x,,x
+Missouri,29,,,,x,x,x,,x
+Montana,30,00 (county & balance),,,x,x,,,x
+Nebraska,31,,,,x,,x,,x
+Nevada,32,00 (Carson City),,,x,,,,x
+New Hampshire,33,,,,x,,,,x
+New Jersey,34,00 (Princeton),37 (municipality),x,x,x,,,x
+New Mexico,35,,,,x,x,x,,x
+New York,36,,,,x,,x,,x
+North Carolina,37,,,,x,x,x,,x
+North Dakota,38,,,,x,,,,x
+Ohio,39,,,,x,,x,,x
+Oklahoma,40,,,,x,x,,,x
+Oregon,41,,,,x,x,,,x
+Pennsylvania,42,37 (municipality),,x,x,x,,,x
+Puerto Rico,43*,,,,,,,,
+Rhode Island,44,,,,x,,,,x
+South Carolina,45,,,,x,x,,,x
+South Dakota,46,,,,x,x,x,,x
+Tennessee,47,"00 (County, Metro government balance)",,,x,x,,,x
+Texas,48,,,,x,x,x,,x
+Utah,49,,,,x,x,,,x
+Vermont,50,,,,x,,x,,x
+Virginia,51,,,,x,x,,,x
+Virgin Islands,52*,,,,,,,,
+Washington,53,,,,x,x,,,x
+West Virginia,54,CN (Corporation),,,x,x,x,,x
+Wisconsin,55,,,,x,,x,,x
+Wyoming,56,,,,x,x,,,x
+American Samoa,60*,,,,,,,,
+Micronesia,64,,,,,,,,
+Guam,66*,,,,,,,,
+Johnson Atoll,67,,,,,,,,
+Marshall Islands,68,,,,,,,,
+Northern Mariana Islands,69,,,,,,,,
+Palau,70,,,,,,,,
+Midway Islands,71,,,,,,,,
+Puerto Rico,72*,,,,,,,,
+Minor Outlying Islands,74,,,,,,,,
+Navassa Island,76,,,,,,,,
+US Virgin Islands,78*,,,,,,,,
+Wake Island,79,,,,,,,,
+Baker Island,81,,,,,,,,
+Jarvis Island,86,,,,,,,,
+Kingman Reef,89,,,,,,,,
+Palmyra Atoll,95,,,,,,,,

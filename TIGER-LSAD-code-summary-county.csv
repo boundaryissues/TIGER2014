@@ -1,0 +1,14 @@
+State,03 (City & Borough),04 (Borough),05 (Census Area),06 (County),07 (District),08 (City – Independent),09 (City – Independent),10 (Island),11 (Island),12 (Municipality),13 (Municipio),14 (County Equivalent),16 (Parish),25 (City)
+48,,,,x,,,,,,,,,,
+Alaska,x,x,x,,,,,,,x,,,,
+American Samoa,,,,,x,,,,x,,,,,
+DC,,,,,,,,,,,,x,,
+Guam,,,,,,,,,,,,x,,
+Louisiana,,,,,,,,,,,,,x,
+Maryland,,,,x,,x,,,,,,,,x
+Missouri,,,,x,,x,,,,,,,,
+Nevada,,,,,,,x,,,,,,,
+Northern Marianas Islands,,,,,,,,,,x,,,,
+Puerto Rico,,,,,,,,,,,x,,,
+US Virgin Islands,,,,,,,,x,,,,,,
+Virginia,,,,x,,x,,,,,,,,
