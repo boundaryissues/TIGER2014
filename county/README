@@ -6,4 +6,4 @@ The US county boundary files use the following LSAD codes:
 05  Census Area (statistical boundary)
 06  County (legal boundary)
 15  Parish (Louisana, legal boundary)
-25  City (legal boundary, Should in may cases be 08, Independent city)
+25  City (legal boundary, Should in many cases be 08 or 09, Independent city)
