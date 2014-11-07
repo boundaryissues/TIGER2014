@@ -1,17 +1,17 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "CO",
+        "State":  "NM",
     },
     "Description":  "TIGER Places (Cities & other Municipalities, CDPs)",
     "Year":  "2014",
     "License": "Public Domain",
     "Source": {
           "Name": "US Census Bureau (TIGER)",
-          "SourceURL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/place/tl_2014_08_place.zip"
+          "SourceURL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/place/tl_2014_35_place.zip"
     },
     "tiger": {
-        "LSADs":  [ "25","43","57" ],
+        "LSADs":  [ "25","43","47","57" ],
     }
     "CRS": {
         "Name":  "WGS84",
