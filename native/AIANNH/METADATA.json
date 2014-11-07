@@ -1,0 +1,17 @@
+{
+    "Location": {
+        "Country":  "US",
+    },
+    "Description":  "American Indian/Alaska Native/Native Hawaiian Areas",
+    "Year":  "2014",
+    "License": "Public Domain",
+    "Source": {
+          "Name": "US Census Bureau (TIGER)",
+          "SourceURL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/aiannh/tl_2014_us_aiannh.zip"
+    },
+    "CRS": {
+        "Name":  "WGS84",
+        "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",
+        "Original": "NAD83"
+    }
+}
