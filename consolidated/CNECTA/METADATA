@@ -1,8 +1,0 @@
-Country:  US
-Region: New England
-Description: Consolidated Town/City Government
-Source:  US Census Bureau (TIGER)
-SourceURL:  ftp://ftp2.census.gov/geo/tiger/TIGER2014/cnecta/tl_2014_us_cnecta.zip
-License:  Public Domain
-CRS:  WGS84
-OriginalCRS:  NAD83
