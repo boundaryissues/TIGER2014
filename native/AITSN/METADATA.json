@@ -7,7 +7,7 @@
     "License": "Public Domain",
     "Source": {
           "Name": "US Census Bureau (TIGER)",
-          "SourceURL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/aitsn/tl_2014_us_aitsn.zip"
+          "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/aitsn/tl_2014_us_aitsn.zip"
     },
     "CRS": {
         "Name":  "WGS84",
