@@ -8,7 +8,7 @@
     "License": "Public Domain",
     "Source": {
           "Name": "US Census Bureau (TIGER)",
-          "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/place/tl_2014_33_place.zip"
+          "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/PLACE/tl_2014_33_place.zip"
     },
     "tiger": {
         "LSADs":  [ "25","57" ],
