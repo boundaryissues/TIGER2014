@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "PR",
+        "State":  "PR"
     },
     "Description":  "TIGER Places (Cities & other Municipalities, CDPs)",
     "Year":  "2014",
@@ -11,8 +11,11 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/PLACE/tl_2014_72_place.zip"
     },
     "tiger": {
-        "LSADs":  [ "55","62" ],
-    }
+        "LSADs": [
+            {"55":"Comunidad (Puerto, statistical, apparently equivalent to CDP)"},
+            {"62":"Zona Urbana (Puerto Rico, statistical, place)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

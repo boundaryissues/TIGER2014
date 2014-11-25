@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "PA",
+        "State":  "PA"
     },
     "Description":  "TIGER Places (Cities & other Municipalities, CDPs)",
     "Year":  "2014",
@@ -11,8 +11,14 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/PLACE/tl_2014_42_place.zip"
     },
     "tiger": {
-        "LSADs":  [ "21","25","37","43","57" ],
-    }
+        "LSADs": [
+            {"21":"Borough (NY,NJ,PA, legal, county subdivision/subdivision equivalent)"},
+            {"25":"City (legal, county subdivision equivalent)"},
+            {"37":"Municipality (AK, PA, legal?, place)"},
+            {"43":"Town (legal, county subdivision or county subdivision equivalent)"},
+            {"57":"CDP (Census Designated Place, statistical)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

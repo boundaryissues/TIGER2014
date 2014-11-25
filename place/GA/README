@@ -1,10 +1,7 @@
-The Georgia state place file uses the following LSAD codes:
+The Georgia place file uses the following LSAD codes:
 
-UG  Unified Government (City & County) - Legal boundary
-00  Athens, Macon & Augusta - Legal boundary
-25  City - Legal boundary
-43  Town - Legal boundary
-57  CDP (Census Designated Place) - Statistical Boundary
-
-the boundaries for Athens & Augusta in consolidated/GA may be more useful
-than the boundaries for those communities in the UG and 00 files here.
+00  Athens, Macon & Augusta - legal boundary (boundaries for Athens and Augusta in consolidated/GA are more inclusive)
+25  City (legal, county subdivision equivalent)
+43  Town (legal, county subdivision or county subdivision equivalent)
+57  CDP (Census Designated Place, statistical)
+UG  Unified Government (City & County) - legal boundary

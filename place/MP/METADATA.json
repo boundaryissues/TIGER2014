@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "MP",
+        "State":  "MP"
     },
     "Description":  "TIGER Places (Cities & other Municipalities, CDPs)",
     "Year":  "2014",
@@ -11,8 +11,10 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/PLACE/tl_2014_69_place.zip"
     },
     "tiger": {
-        "LSADs":  [ "47" ],
-    }
+        "LSADs": [
+            {"47":"Village (NJ, OH, SD, WI, legal, county subdivision equivalent)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

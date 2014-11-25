@@ -1,5 +1,5 @@
-The Ohio state place file uses the following LSAD codes:
+The Ohio place file uses the following LSAD codes:
 
-25  City - Legal boundary
-47  Village - Legal boundary
-57  CDP (Census Designated Place) - Statistical Boundary
+25  City (legal, county subdivision equivalent)
+47  Village (NJ, OH, SD, WI, legal, county subdivision equivalent)
+57  CDP (Census Designated Place, statistical)

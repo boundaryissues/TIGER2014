@@ -1,6 +1,6 @@
-The Alaska state place file uses the following LSAD codes:
+The Alaska place file uses the following LSAD codes:
 
-25  City - Legal boundary
-37  City - Anchorage - Legal boundary
-53  City & Borough - Legal boundary
-57  CDP (Census Designated Place) - Statistical Boundary
+25  City (legal, county subdivision equivalent)
+37  Municipality (AK, PA, legal?, place)
+53  City and Burough (AK, legal, incorporated place)
+57  CDP (Census Designated Place, statistical)

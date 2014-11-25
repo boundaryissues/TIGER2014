@@ -1,12 +1,6 @@
-The Kentucky state place file uses the following LSAD codes:
+The Kentucky place file uses the following LSAD codes:
 
-UC  Urban County - Legal boundary
-00  combined Louisville/Jefferson County metro - Legal boundary
-    	     (balance, to be combined with city boundary)
-	     (see TIGER/2014/consolidated/KY for complete boundary
-	      for Louisville/Jefferson County)
-25  City - Legal boundary
-57  CDP (Census Designated Place) - Statistical Boundary
-
-see consolidated/KY for an inclusive boundary for the combined
-Louisville/Jefferson County Metro Government
+00  combined Louisville/Jerferson county metro boundary balance. (boundary in consolidated/KY is more inclusive)
+25  City (legal, county subdivision equivalent)
+57  CDP (Census Designated Place, statistical)
+UC  Lexington - Urban County - Legal boundary

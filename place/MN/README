@@ -1,5 +1,4 @@
-The Minnesota state place file uses the following LSAD codes:
+The Minnesota place file uses the following LSAD codes:
 
-25  City - Legal boundary
-57  CDP (Census Designated Place) - Statistical Boundary
-
+25  City (legal, county subdivision equivalent)
+57  CDP (Census Designated Place, statistical)

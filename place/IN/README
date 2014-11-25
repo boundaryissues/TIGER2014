@@ -1,9 +1,6 @@
-The Indiana state place file uses the following LSAD codes:
+The Indiana place file uses the following LSAD codes:
 
-00  Indianapolis - Legal Boundary
-25  City - Legal boundary
-43  Town - Legal boundary
-57  CDP (Census Designated Place) - Statistical Boundary
-
-for Indianapolis, also look at the consolidated boundary in
-consolidated/IN
+00  Indianaplis - legal boundary (boundary in consolidated/IN is more inclusive)
+25  City (legal, county subdivision equivalent)
+43  Town (legal, county subdivision or county subdivision equivalent)
+57  CDP (Census Designated Place, statistical)
