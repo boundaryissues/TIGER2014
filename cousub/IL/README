@@ -1,7 +1,7 @@
-The Illinois state county subdivision file uses the following LSAD codes:
+The Illinois cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (offshore areas, Lake Michigan)
-25  City - Legal boundary
-29  Precinct - Election Precinct
-30  Precinct - Election precinct, word "precinct" included in name
-44  Township - Legal boundary
+00  County Subdivisions not defined (offshore areas, should be 40)
+25  City (legal, county subdivision equivalent)
+29  precinct (IL, NE, legal, county subdivision, election precinct)
+30  precinct (IL, NE, legal, county subdivision, election precinct)
+44  Township (legal, county subdivision)

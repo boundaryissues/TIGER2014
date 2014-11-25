@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "PR",
+        "State":  "PR"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,12 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_72_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "00","20","41" ],
-    }
+        "LSADs": [
+            {"00":"Muncipio Subdivisions not defined (offshore areas, should be 40)"},
+            {"20":"Barrio (Puerto Rico, legal, county subdivision)"},
+            {"41":"Barrio-Pueblo (Puerto Rico, legal, county subdivision)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

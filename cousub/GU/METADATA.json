@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "GU",
+        "State":  "GU"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,11 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_66_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "00","37" ],
-    }
+        "LSADs": [
+            {"00":"County Subdivisions not defined (offshore areas, should be 40)"},
+            {"37":"Municipality (AK, PA, legal?, place)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

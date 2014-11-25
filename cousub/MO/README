@@ -1,4 +1,4 @@
-The Missouri state county subdivision file uses the following LSAD codes:
+The Missouri cousub file uses the following LSAD codes:
 
-25  City - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
+25  City (legal, county subdivision equivalent)
+44  Township (legal, county subdivision)

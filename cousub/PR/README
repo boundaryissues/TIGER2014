@@ -1,5 +1,5 @@
-The Puerto Rico county subdivision file uses the following LSAD codes:
+The Puerto Rico cousub file uses the following LSAD codes:
 
-00  Offshore areas (Municipio Subdivision not defined)
-20  Barrio - Legal boundary
-41  Barrio-Pueblo - Legal boundary
+00  Muncipio Subdivisions not defined (offshore areas, should be 40)
+20  Barrio (Puerto Rico, legal, county subdivision)
+41  Barrio-Pueblo (Puerto Rico, legal, county subdivision)

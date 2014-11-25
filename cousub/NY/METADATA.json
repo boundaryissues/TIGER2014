@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "NY",
+        "State":  "NY"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,15 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_36_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "00","21","25","43","46","86" ],
-    }
+        "LSADs": [
+            {"00":"County Subdivisions not defined (offshore areas, should be 40)"},
+            {"21":"Borough (NY,NJ,PA, legal, county subdivision/subdivision equivalent)"},
+            {"25":"City (legal, county subdivision equivalent)"},
+            {"43":"Town (legal, county subdivision or county subdivision equivalent)"},
+            {"46":"UT (statistical, county subdivision equivalent)"},
+            {"86":"Reservation (American Indian Reservation)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

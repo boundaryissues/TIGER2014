@@ -1,7 +1,7 @@
-The North Carolina state county subdivision file uses the following LSAD codes:
+The North Carolina cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (Cleveland County)
-25  City - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
-45  Township (name includes string "Township") - Legal boundary
-46  UT - Statistical boundary
+00  Cleveland County (County Subdivisions not defined)
+25  City (legal, county subdivision equivalent)
+44  Township (legal, county subdivision)
+45  Township (KS, MN, NE, NC, legal, county subdivision)
+46  UT (statistical, county subdivision equivalent)

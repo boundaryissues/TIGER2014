@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "ME",
+        "State":  "ME"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,15 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_23_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "25","31","39","43","46","86" ],
-    }
+        "LSADs": [
+            {"25":"City (legal, county subdivision equivalent)"},
+            {"31":"Gore (ME, VT, legal, county subdivision)"},
+            {"39":"Plantation (ME, legal, county subdivision)"},
+            {"43":"Town (legal, county subdivision or county subdivision equivalent)"},
+            {"46":"UT (statistical, county subdivision equivalent)"},
+            {"86":"Reservation (American Indian Reservation)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

@@ -1,5 +1,5 @@
-The Arkansas state county subdivision file uses the following LSAD codes:
+The Arkansas cousub file uses the following LSAD codes:
 
-44  Township (name does not inclued string "Township") - Legal boundary
-45  Township (name includes string "Township") - Legal boundary
-46  UT - Statistical boundary
+44  Township (legal, county subdivision)
+45  Township (KS, MN, NE, NC, legal, county subdivision)
+46  UT (statistical, county subdivision equivalent)

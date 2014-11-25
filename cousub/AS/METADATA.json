@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "AS",
+        "State":  "AS"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,11 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_60_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "00","26" ],
-    }
+        "LSADs": [
+            {"00":"Rose & Swain Islands"},
+            {"26":"County (American Samoa, legal, county subdivision equivalent)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

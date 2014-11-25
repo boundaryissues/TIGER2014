@@ -1,5 +1,5 @@
-The North Dakota state county subdivision file uses the following LSAD codes:
+The North Dakota cousub file uses the following LSAD codes:
 
-25  City - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
-46  UT - Statistical boundary
+25  City (legal, county subdivision equivalent)
+44  Township (legal, county subdivision)
+46  UT (statistical, county subdivision equivalent)

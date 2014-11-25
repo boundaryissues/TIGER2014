@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "VI",
+        "State":  "VI"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,11 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_78_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "00","24" ],
-    }
+        "LSADs": [
+            {"00":"Island Subdivisions not defined (offshore areas, should be 40)"},
+            {"24":"subdistrict (Virgin Islands, legal, county subdivision equivalent)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

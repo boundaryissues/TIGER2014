@@ -1,5 +1,4 @@
-The Guam county subdivision file uses the following LSAD codes:
+The Guam cousub file uses the following LSAD codes:
 
-00  Offshore areas
-37  Municipality - Legal boundary
-
+00  County Subdivisions not defined (offshore areas, should be 40)
+37  Municipality (AK, PA, legal?, place)

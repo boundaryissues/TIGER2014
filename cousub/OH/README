@@ -1,6 +1,6 @@
-The Ohio state county subdivision file uses the following LSAD codes:
+The Ohio cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (offshore areas - Great Lakes)
-25  City - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
-47  Village - Legal boundary
+00  County Subdivisions not defined (offshore areas, should be 40)
+25  City (legal, county subdivision equivalent)
+44  Township (legal, county subdivision)
+47  Village (NJ, OH, SD, WI, legal, county subdivision equivalent)

@@ -1,4 +1,4 @@
-The Connecticut state county subdivision file uses the following LSAD codes:
+The Connecticut cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (offshore areas)
-43  Town - Legal boundary
+00  County Subdivisions not defined (offshore areas, should be 40)
+43  Town (legal, county subdivision or county subdivision equivalent)

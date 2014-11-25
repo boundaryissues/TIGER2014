@@ -1,4 +1,4 @@
-The Maryland state county subdivision file uses the following LSAD codes:
+The Maryland cousub file uses the following LSAD codes:
 
-25  City - Legal boundary
-28  District - Legal boundary (see LSAD codes definition)
+25  City (legal, county subdivision equivalent)
+28  District (LA, MD, MI, VA, WV, Northern Mariana Islands, County subdivision, assessment, election, magisterial, supervisor's, parish governing authority, or municipal district

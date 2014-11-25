@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "MT",
+        "State":  "MT"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,10 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_30_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "22" ],
-    }
+        "LSADs": [
+            {"22":"CCD - Census County Division (statistical, county subdivision equivalent)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

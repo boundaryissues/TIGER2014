@@ -1,8 +1,8 @@
-The New Jersey state county subdivision file uses the following LSAD codes:
+The New Jersey cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (offshore areas)
-21  Borough - Legal boundary
-25  City - Legal boundary
-43  Town - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
-47  Village - Legal boundary
+00  County Subdivisions not defined (offshore areas, should be 40)
+21  Borough (NY,NJ,PA, legal, county subdivision/subdivision equivalent)
+25  City (legal, county subdivision equivalent)
+43  Town (legal, county subdivision or county subdivision equivalent)
+44  Township (legal, county subdivision)
+47  Village (NJ, OH, SD, WI, legal, county subdivision equivalent)

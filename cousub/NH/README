@@ -1,9 +1,9 @@
-The New Hampshire state county subdivision file uses the following LSAD codes:
+The New Hampshire cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (offshore areas)
-25  City - Legal boundary
-32  Grant - Legal boundary
-36  Location - Legal boundary
-42  Purchase - Legal boundary
-43  Town - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
+00  County Subdivisions not defined (offshore areas, should be 40)
+25  City (legal, county subdivision equivalent)
+32  Grant (NH, VT, legal, county subdivsion)
+36  Location (NH, legal, county subdivsion)
+42  Purchase (NH, legal, county subdivision)
+43  Town (legal, county subdivision or county subdivision equivalent)
+44  Township (legal, county subdivision)

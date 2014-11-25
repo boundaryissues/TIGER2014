@@ -1,4 +1,4 @@
-The West Virginia state county subdivision file uses the following LSAD codes:
+The West Virginia cousub file uses the following LSAD codes:
 
-27  District - Legal boundary (Election, magisterial, municipal or road district)
-28  District ("district" part of name) - Legal boundary
+27  District (PA, VA, WV, Guam, Northern Mariana Islands, county subdivision equivalent, election, magisterial, municipal or road district
+28  District (LA, MD, MI, VA, WV, Northern Mariana Islands, County subdivision, assessment, election, magisterial, supervisor's, parish governing authority, or municipal district

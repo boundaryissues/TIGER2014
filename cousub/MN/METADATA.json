@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "MN",
+        "State":  "MN"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,14 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_27_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "00","25","44","45","46" ],
-    }
+        "LSADs": [
+            {"00":"County Subdivisions not defined (offshore areas, should be 40)"},
+            {"25":"City (legal, county subdivision equivalent)"},
+            {"44":"Township (legal, county subdivision)"},
+            {"45":"Township (KS, MN, NE, NC, legal, county subdivision)"},
+            {"46":"UT (statistical, county subdivision equivalent)"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",

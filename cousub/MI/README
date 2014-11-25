@@ -1,6 +1,6 @@
-The Michigan state county subdivision file uses the following LSAD codes:
+The Michigan cousub file uses the following LSAD codes:
 
-00  County Subdivsions not defined (offshore areas)
-25  City - Legal boundary
-44  Township (name does not include string "Township") - Legal boundary
-49  Charter Township - Legal boundary
+00  County Subdivisions not defined (offshore areas, should be 40)
+25  City (legal, county subdivision equivalent)
+44  Township (legal, county subdivision)
+49  Charter Township (MI, legal, county subdivision)

@@ -1,5 +1,5 @@
-The Kansas state county subdivision file uses the following LSAD codes:
+The Kansas cousub file uses the following LSAD codes:
 
-25  City - Legal boundary
-44  Township (name does not inclued string "Township") - Legal boundary
-45  Township (name includes string "Township") - Legal boundary
+25  City (legal, county subdivision equivalent)
+44  Township (legal, county subdivision)
+45  Township (KS, MN, NE, NC, legal, county subdivision)

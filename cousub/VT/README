@@ -1,6 +1,6 @@
-The Vermont state county subdivision file uses the following LSAD codes:
+The Vermont cousub file uses the following LSAD codes:
 
-25  City - Legal boundary
-31  Gore - Legal boundary
-32  Grant - Legal boundary
-43  Town - Legal boundary
+25  City (legal, county subdivision equivalent)
+31  Gore (ME, VT, legal, county subdivision)
+32  Grant (NH, VT, legal, county subdivsion)
+43  Town (legal, county subdivision or county subdivision equivalent)

@@ -1,7 +1,7 @@
 {
     "Location": {
         "Country":  "US",
-        "State":  "WV",
+        "State":  "WV"
     },
     "Description":  "County Subdivision",
     "Year":  "2014",
@@ -11,8 +11,11 @@
           "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUSUB/tl_2014_54_cousub.zip"
     },
     "tiger": {
-        "LSADs":  [ "27","28" ],
-    }
+        "LSADs": [
+            {"27":"District (PA, VA, WV, Guam, Northern Mariana Islands, county subdivision equivalent, election, magisterial, municipal or road district"},
+            {"28":"District (LA, MD, MI, VA, WV, Northern Mariana Islands, County subdivision, assessment, election, magisterial, supervisor's, parish governing authority, or municipal district"}
+         ]
+    },
     "CRS": {
         "Name":  "WGS84",
         "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",
