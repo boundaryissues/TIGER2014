@@ -1,0 +1,18 @@
+{
+    "Location": {
+        "Country":  "US",
+        "State":  "DC"
+    },
+    "Description":  "Counties and County equivalents",
+    "Year":  "2014",
+    "License": "Public Domain",
+    "Source": {
+          "Name": "US Census Bureau (TIGER)",
+          "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COUNTY/tl_2014_us_county.zip"
+    },
+    "CRS": {
+        "Name":  "WGS84",
+        "URN": "urn:ogc:def:crs:OGC:1.3:CRS84",
+        "Original": "NAD83"
+    }
+}
