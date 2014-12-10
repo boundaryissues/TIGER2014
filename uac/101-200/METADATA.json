@@ -1,14 +1,13 @@
 {
     "Location": {
-        "Country":  "US",
-        "State":  "GA"
+        "Country":  "US"
     },
-    "Description":  "Consolidated City/County Government",
+    "Description":  "Urban Areas",
     "Year":  "2014",
     "License": "Public Domain",
     "Source": {
           "Name": "US Census Bureau (TIGER)",
-          "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/concity/tl_2014_13_concity.zip"
+          "URL": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/UAC10/tl_2014_us_uac10.zip"
     },
     "CRS": {
         "Name":  "WGS84",
