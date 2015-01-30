@@ -1,6 +1,9 @@
 {
     "Location": {
-        "Country":  "US"
+        "Country":  "US",
+        "States": [ 
+                    "CA"
+                    ]
     },
     "Description":  "Urban Areas",
     "Year":  "2014",
